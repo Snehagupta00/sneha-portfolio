@@ -1,0 +1,80 @@
+{
+  "personalInfo": {
+    "name": "Sneha Gupta",
+    "title": "Aspiring Full-Stack Developer",
+    "email": "sneha.gupta_cs22@gla.ac.in",
+    "linkedin": "https://www.linkedin.com/in/sneha-gupta-843812753",
+    "github": "https://github.com/sneha-gupta00",
+    "location": "Mathura, Uttar Pradesh, India"
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Computer Science",
+      "institution": "GLA University, Mathura",
+      "gpa": "7.0",
+      "duration": "2022 - 2026 (Expected)",
+      "status": "Final Year"
+    },
+    {
+      "degree": "Intermediate",
+      "institution": "Asian Public School",
+      "percentage": "71.2%",
+      "year": "July 2022"
+    },
+    {
+      "degree": "High School",
+      "institution": "Biharare Convent High School",
+      "percentage": "78.6%",
+      "year": "April 2020"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Java Development & Training Intern",
+      "company": "Internship Studio",
+      "location": "Pune (Remote)",
+      "duration": "June 2024 - August 2024",
+      "description": "Developed Java-based applications focusing on OOP concepts and data structures. Gained hands-on experience in Java development and problem-solving."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Auto Grade System",
+      "technologies": ["HTML", "CSS", "JavaScript", "Express.js", "Node.js", "MongoDB"],
+      "description": "Led development of an innovative auto-grade system to streamline assessment processes with responsive UI design."
+    },
+    {
+      "name": "Pizza Bill Generator",
+      "technologies": ["Core Java", "OOP"],
+      "description": "Developed a robust Java application for generating pizza bills with OOP principles implementation."
+    },
+    {
+      "name": "Chat App (CONVO)",
+      "technologies": ["React.js", "Tailwind CSS", "Firebase", "Cloudinary"],
+      "description": "Designed and implemented a full-stack chat application with responsive interface for seamless messaging."
+    }
+  ],
+  "skills": {
+    "programming": ["HTML", "CSS", "JavaScript", "Java", "Core Java"],
+    "frameworks": ["React.js", "Next.js", "Express.js", "Node.js", "Tailwind CSS"],
+    "databases": ["MongoDB", "Firebase", "Cloudinary"],
+    "tools": ["Git", "GitHub", "Postman", "VS Code", "Vercel"]
+  },
+  "certifications": [
+    {
+      "name": "Java Development Training Certificate",
+      "issuer": "Internship Studio",
+      "date": "August 2024"
+    },
+    {
+      "name": "Postman API Fundamental Student Expert",
+      "issuer": "Postman",
+      "date": "July 2024"
+    },
+    {
+      "name": "CCNA: Introduction to Networks",
+      "issuer": "CISCO Networking Academy",
+      "date": "June 2024"
+    }
+  ]
+}
