@@ -108,13 +108,13 @@ const Contact = () => {
               <h4 className="font-semibold">Connect with me</h4>
               <div className="flex space-x-4">
                 <Button variant="outline" size="icon" asChild>
-                  <Link href="https://github.com/sneha-gupta00" target="_blank" rel="noopener noreferrer">
+                  <Link href="https://github.com/Snehagupta00" target="_blank" rel="noopener noreferrer">
                     <Github className="h-5 w-5" />
                   </Link>
                 </Button>
                 <Button variant="outline" size="icon" asChild>
                   <Link
-                    href="https://www.linkedin.com/in/sneha-gupta-843812753"
+                    href="https://www.linkedin.com/in/sneha-gupta-843817253"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

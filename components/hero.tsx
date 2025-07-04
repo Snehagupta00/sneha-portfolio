@@ -64,13 +64,13 @@ const Hero = () => {
 
           <div className="flex justify-center space-x-6">
             <Button variant="ghost" size="icon" asChild>
-              <Link href="https://github.com/snehagupta00" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/Snehagupta00" target="_blank" rel="noopener noreferrer">
                 <Github className="h-6 w-6" />
                 <span className="sr-only">GitHub</span>
               </Link>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <Link href="https://www.linkedin.com/in/snehagupta843812753" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/in/sneha-gupta-843817253" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-6 w-6" />
                 <span className="sr-only">LinkedIn</span>
               </Link>
