@@ -39,13 +39,13 @@ const About = () => {
                     <h3 className="text-xl font-semibold mb-2">Education</h3>
                     <div className="space-y-2 text-sm text-muted-foreground">
                       <p>
-                        <strong>B.Tech Computer Science</strong> - GLA University, Mathura (7.0 GPA, June 2026)
+                        <strong>B.Tech Computer Science</strong> - GLA University, Mathura (June 2026)
                       </p>
                       <p>
-                        <strong>Intermediate</strong> - Asian Public School (71.2%, July 2022)
+                        <strong>Intermediate</strong> - Asian Public School ( July 2022)
                       </p>
                       <p>
-                        <strong>High School</strong> - Biharare Convent High School (78.6%, April 2020)
+                        <strong>High School</strong> - Biharare Convent High School ( April 2020)
                       </p>
                     </div>
                   </div>
